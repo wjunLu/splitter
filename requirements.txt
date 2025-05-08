@@ -1,0 +1,15 @@
+PyYAML
+click
+pip
+attrs
+DateTime
+wheel
+setuptools
+packaging
+tomli
+autocommand
+inflect
+typeguard
+platformdirs
+zipp
+jinja2
